@@ -2,7 +2,7 @@
 # Legal Document Q&A App
 
 ## Deployed Application
-[Add URL after deployment]
+https://assignment-1-sdqvn69jxbvxrcyfuszdey.streamlit.app/
 
 ## Test Case
 1. Open the deployed application
