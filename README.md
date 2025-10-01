@@ -17,3 +17,7 @@ https://assignment-1-sdqvn69jxbvxrcyfuszdey.streamlit.app/
 - Vector DB: ChromaDB
 - Chunking: LlamaIndex SentenceWindowNodeParser (window_size=5)
 - LLM: OpenAI GPT-5-mini
+
+### References
+- LlamaIndex SentenceWindowNodeParser documentation: https://developers.llamaindex.ai/python/framework/module_guides/loading/node_parsers/modules/#sentencewindownodeparser
+- AI assistance (Claude by Anthropic) used for debugging and troubleshooting
